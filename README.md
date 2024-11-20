@@ -19,7 +19,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Naoufal Haddouzi
 
   #### Je startniveau: 
-  rood
+  zwart
 
   #### Je focus: 
   responsive (kies uit responsive óf surface plane)
