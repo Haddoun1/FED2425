@@ -86,10 +86,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/volledigescreen2.jpg" width="375px" alt="Meer advertenties en een footer met algemenen informatie">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/menu.jpg" width="375px" alt="Ald het scherm een telefoon is, zal de navigatie bar een dropdown menu worden.">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="readme-images/button.jpg" width="375px" alt="Afbeelding beweegt en de button highlight wanneer er op wordt gehoverd, met een kleine pauze">
 
 </details>
 
