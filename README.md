@@ -16,10 +16,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur: 
-  Naoufal Haddouzi 1234
+  Naoufal Haddouzi
 
   #### Je startniveau: 
-  zwart
+  rood
 
   #### Je focus: 
   responsive (kies uit responsive óf surface plane)
