@@ -63,6 +63,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
+  - H2 element boven de H1 element
+  - Website gebruikt geen complexe afbeeldingen
+  - Videos kunnen gestopt worden in de website zelf
+  - Geen darkmode support
+  - Sommige afbeeldingen bewegen een kleinbeetje
+  - Elke afbeelding heeft een ALT tekst
+  - Perfecte kleuren contrast
+
 </details>
 
 
