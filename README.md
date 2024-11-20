@@ -21,7 +21,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Zwart
 
   #### Je focus: 
-  responsive (kies uit responsive óf surface plane)
+  Responsive 
  
 </details>
 
@@ -42,12 +42,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Home Pagina
+  <img src="readme-images/home.jpg" width="375px" alt="Screenshot van de home pagina op de snickers website">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Stukje Geschiedenis Pagina
+  <img src="readme-images/geschiedenis.jpg" width="375px" alt="Screenshot van de geschiedenis pagina op de snickers website">
  
 </details>
 
