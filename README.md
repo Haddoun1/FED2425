@@ -81,14 +81,25 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
+
+  Een logo rechts boven met een dropdown menu aan de zijkant, vervolgens een advertentie er onder, waar ook nog een button is om door te gaan naar een andere scherm. Ook nog alle verschillende Snickers die worden verkocht op dit moment.
+  
   <img src="readme-images/volledigescreen.jpg" width="375px" alt="Een logo rechts boven met een dropdown menu aan de zijkant, vervolgens een advertentie er onder, waar ook nog een button is om door te gaan naar een andere scherm. Ook nog alle verschillende Snickers die worden verkocht op dit moment.">
+
+  Meer advertenties en een footer met algemenen informatie
 
   <img src="readme-images/volledigescreen2.jpg" width="375px" alt="Meer advertenties en een footer met algemenen informatie">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/menu.jpg" width="375px" alt="Ald het scherm een telefoon is, zal de navigatie bar een dropdown menu worden.">
+
+  Als het scherm een telefoon is, zal de navigatie bar een dropdown menu worden.
+
+  <img src="readme-images/menu.jpg" width="375px" alt="Als het scherm een telefoon is, zal de navigatie bar een dropdown menu worden.">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
+
+  Afbeelding beweegt en de button highlight wanneer er op wordt gehoverd, met een kleine pauze
+
   <img src="readme-images/button.jpg" width="375px" alt="Afbeelding beweegt en de button highlight wanneer er op wordt gehoverd, met een kleine pauze">
 
 </details>
