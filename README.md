@@ -18,7 +18,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Auteur: 
   Naoufal Haddouzi
   #### Je startniveau: 
-  Zwart
+  Blauw
 
   #### Je focus: 
   Responsive 
@@ -43,7 +43,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home Pagina
-  
+
   <img src="readme-images/home.jpg" width="375px" alt="Screenshot van de home pagina op de snickers website">
 
   #### Screenshot(s) van de tweede pagina (small screen):
