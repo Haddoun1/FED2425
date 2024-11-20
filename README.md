@@ -83,20 +83,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### de hele pagina: 
 
   Een logo rechts boven met een dropdown menu aan de zijkant, vervolgens een advertentie er onder, waar ook nog een button is om door te gaan naar een andere scherm. Ook nog alle verschillende Snickers die worden verkocht op dit moment.
-  
+
   <img src="readme-images/volledigescreen.jpg" width="375px" alt="Een logo rechts boven met een dropdown menu aan de zijkant, vervolgens een advertentie er onder, waar ook nog een button is om door te gaan naar een andere scherm. Ook nog alle verschillende Snickers die worden verkocht op dit moment.">
 
-  Meer advertenties en een footer met algemenen informatie
+  Meer advertenties en een footer met algemene informatie
 
-  <img src="readme-images/volledigescreen2.jpg" width="375px" alt="Meer advertenties en een footer met algemenen informatie">
+  <img src="readme-images/volledigescreen2.jpg" width="375px" alt="Meer advertenties en een footer met algemene informatie">
 
-  ### dynamisch deel (bijv menu): 
+  ### dynamisch deel: 
 
   Als het scherm een telefoon is, zal de navigatie bar een dropdown menu worden.
 
   <img src="readme-images/menu.jpg" width="375px" alt="Als het scherm een telefoon is, zal de navigatie bar een dropdown menu worden.">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
+  ### wellicht nog een dynamisch deel: 
 
   Afbeelding beweegt en de button highlight wanneer er op wordt gehoverd, met een kleine pauze
 
