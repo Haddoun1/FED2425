@@ -81,7 +81,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/volledigescreen.jpg" width="375px" alt="Een logo rechts boven met een dropdown menu aan de zijkant, vervolgens een advertentie er onder, waar ook nog een button is om door te gaan naar een andere scherm. Ook nog alle verschillende Snickers die worden verkocht op dit moment.">
+
+  <img src="readme-images/volledigescreen2.jpg" width="375px" alt="Meer advertenties en een footer met algemenen informatie">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
