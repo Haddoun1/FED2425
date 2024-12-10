@@ -16,7 +16,7 @@
 :root {
 	/* startje */
 	--color-text:#111;
-	--color-background:#eee;
+	--color-background:#90a600;
 }
 
 
@@ -50,6 +50,7 @@ footer {
 
 h1 {
 	text-align: center;
+	text-transform: uppercase;
 	
 }
 
@@ -57,18 +58,21 @@ h2 {
 	font-family: "zuumme";
 	font-weight:bold;
 	text-align: center;
+	text-transform: uppercase;
 }
 
 h3 {
 	font-family: "zuumme";
 	font-weight:bold;
 	text-align: center;
+	text-transform: uppercase;
 }
 
 h4 {
 	font-family: "zuumme";
 	font-weight:bold;
 	text-align: center;
+	text-transform: uppercase;
 }
 
 p {
@@ -88,3 +92,5 @@ ul {
 li {
 display: inline;
 }
+
+
