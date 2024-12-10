@@ -21,14 +21,12 @@
 
 
 /* https://fontmeme.com/fonts/genta-font/#google_vignette */
-
 @font-face {
 	font-family: "genta";
 	src: url(/fonts/Genta.ttf);
 }
 
 /* https://font.download/font/zuume */
-
 @font-face {
 	font-family: "zuumme";
 	src: url(/fonts/Zuume\ Medium.ttf);
@@ -74,8 +72,10 @@ h4 {
 }
 
 p {
-	text-align: center;
+	text-align: left;
 	font-family: "Genta";
+	color: #eee;
+	line-height: 1em;
 }
 
 
