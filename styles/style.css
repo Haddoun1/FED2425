@@ -20,8 +20,20 @@
 }
 
 
+/* https://fontmeme.com/fonts/genta-font/#google_vignette */
 
+@font-face {
+	font-family: "genta";
+	src: url(/fonts/Genta.ttf);
+}
 
+/* https://font.download/font/zuume */
+
+@font-face {
+	font-family: "zuumme";
+	src: url(/fonts/Zuume\ Medium.ttf);
+	src: url(/fonts/Zuume\ Bold.ttf);
+}
 
 /****************/
 /* JOUW STYLING */
@@ -38,6 +50,34 @@ footer {
 
 }
 
+h1 {
+	text-align: center;
+	
+}
+
+h2 {
+	font-family: "zuumme";
+	font-weight:bold;
+	text-align: center;
+}
+
+h3 {
+	font-family: "zuumme";
+	font-weight:bold;
+	text-align: center;
+}
+
+h4 {
+	font-family: "zuumme";
+	font-weight:bold;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+	font-family: "Genta";
+}
+
 
 ul {
 	list-style-type: none;
@@ -48,4 +88,3 @@ ul {
 li {
 display: inline;
 }
-
