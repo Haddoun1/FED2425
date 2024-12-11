@@ -120,13 +120,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
 Screenshots van nieuwe headers en tekst:
 
+ <img src="readme-images/headers.png" width="375px" alt="Headers aangepast in code">
+
 
   Bij de afbeeldingen heb ik een nieuwe mapje gemaakt genaamd "images". Toch ging het mis met een paar afbeeldingen die ik direct uit de website heb gehaald. Soms waren ze niet compleet dus er misten een stukje of het moment dat het maar 1px was en helemaal niet kon gebruiken. Dit kwam blijkbaar door dat sommige afbeeldingen vast zaten in hun eigen database. Ik heb toen gezocht naar andere afbeeldingen die ik kon gebruiken.
 
 Screenshots van afbeeldingen en foute pogingen:
 
+<img src="readme-images/Images.png" width="375px" alt="Alle afbeeldingen in mijn mapje">
+ <img src="readme-images/1pxfotogoede.png" width="375px" alt="De goede afbeelding die 1px is">
+ <img src="readme-images/1pxfoto.png.png" width="375px" alt="foute poging 1px afbeelding">
 
-  Er zat ook een video in mijn gekozen website. Dit viel wel mee op uiteindelijk in mijn code te zetten alleen moest ik gebruik maken van de "<video>" tag
+
+  Er zat ook een video in mijn gekozen website. Dit viel wel mee op uiteindelijk in mijn code te zetten alleen moest ik gebruik maken van de "video" tag. 
+
+
 
 
   ### Agenda voor meeting
