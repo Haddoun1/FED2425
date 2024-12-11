@@ -134,26 +134,13 @@ Screenshots van afbeeldingen en foute pogingen:
 
   Er zat ook een video in mijn gekozen website. Dit viel wel mee op uiteindelijk in mijn code te zetten alleen moest ik gebruik maken van de "video" tag. 
 
-
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - In mijn website was de H1 niet helemaal logisch dus ik had nagevraagd wat ik de H1 zou maken. Ik kreeg te horen dat de logo het beste is om H1 te maken. Dus ik heb dat aangepast.
+  - Bespreken of een hamburger menu handig is in mijn site. Uiteindelijk zijn we daar voor gegaan.
+  - Ik had een section zonder header dus ik kreeg een "info" op mijn html van we w3school validation. Dit moet ik gaan aanpassen omdat de screenreader het ook niet lezen.
+  - Taal van Engels naar Nederlands omdat alle content in het Nederlands is. Dit helpt ook met de screenreader.
 
 </details>
 
