@@ -12,7 +12,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Jij
 
-<details open>
+<details >
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur: 
@@ -31,7 +31,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Je website
 
-<details open>
+<details >
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht: 
@@ -57,7 +57,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Toegankelijkheidstest 1/2 (week 1)
 
-<details open>
+<details >
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
@@ -77,7 +77,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Breakdownschets (week 1)
 
-<details open>
+<details >
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
@@ -110,7 +110,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Voortgang 1 (week 2)
 
-<details open>
+<details >
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
@@ -185,7 +185,7 @@ Screenshots van afbeeldingen en foute pogingen:
   - Meer uitleg over nth-of-type en hoe dat zou werken met mijn tweede pagina.
   - Confirmatie over wat er nu allemaal in moet komen als je Surface Plane hebt gekozen.
   - Of de headings goed en logisch staan.
-  - 
+
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
