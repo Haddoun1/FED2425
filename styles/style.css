@@ -1,8 +1,10 @@
 /**************/
 /* CSS REMEDY */
 /**************/
-*, *::after, *::before {
-  box-sizing:border-box;  
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
 }
 
 * {
@@ -22,7 +24,7 @@
 	/* startje */
 	--primary-color: #410C00;
 	--secondary-color: #210082;
-	--color-text:#ffffff;
+	--color-text: #ffffff;
 	--color-text2: #410C00;
 }
 
@@ -55,13 +57,11 @@ header {
 
 
 
-h1 {
-	
-}
+h1 {}
 
 h2 {
 	font-family: "zuumme";
-	font-weight:bold;
+	font-weight: bold;
 	text-align: center;
 	text-transform: uppercase;
 }
@@ -79,7 +79,7 @@ h3 {
 
 h4 {
 	font-family: "zuumme";
-	font-weight:bold;
+	font-weight: bold;
 	text-align: center;
 	text-transform: uppercase;
 }
@@ -103,15 +103,15 @@ ul {
 }
 
 li {
-display: inline;
+	display: inline;
 
-color: var(--color-text);
+	color: var(--color-text);
 }
 
 video {
 	width: 100%;
 	height: 100%;
-	object-fit: cover; 
+	object-fit: cover;
 }
 
 img {
@@ -124,5 +124,3 @@ img {
 footer {
 	background-color: var(--primary-color);
 }
-
-
