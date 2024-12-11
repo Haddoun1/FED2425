@@ -1,6 +1,8 @@
 /**************/
 /* CSS REMEDY */
 /**************/
+
+
 *,
 *::after,
 *::before {
@@ -13,13 +15,11 @@
 }
 
 
-
-
-
-
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
+
+
 :root {
 	/* startje */
 	--primary-color: #410C00;
@@ -42,22 +42,22 @@
 	src: url(/fonts/Zuume\ Bold.ttf);
 }
 
+
 /****************/
 /* JOUW STYLING */
 /****************/
 
-/* jouw code */
-
 
 /* Header */
+
+
 header {
 	background-color: var(--primary-color);
 }
 
 
+/* Header */
 
-
-h1 {}
 
 h2 {
 	font-family: "zuumme";
