@@ -129,7 +129,7 @@ Screenshots van afbeeldingen en foute pogingen:
 
 <img src="readme-images/Images.png" width="375px" alt="Alle afbeeldingen in mijn mapje">
  <img src="readme-images/1pxfotogoede.png" width="375px" alt="De goede afbeelding die 1px is">
- <img src="readme-images/1pxfoto.png.png" width="375px" alt="foute poging 1px afbeelding">
+ <img src="readme-images/1pxfoto.png" width="375px" alt="foute poging 1px afbeelding">
 
 
   Er zat ook een video in mijn gekozen website. Dit viel wel mee op uiteindelijk in mijn code te zetten alleen moest ik gebruik maken van de "video" tag. 
