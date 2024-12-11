@@ -98,7 +98,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### wellicht nog een dynamisch deel: 
 
-  Afbeelding beweegt en de button highlight wanneer er op wordt gehoverd, met een kleine pauze
+  Afbeelding beweegt en de button highlight wanneer er op wordt gehoverd, met een kleine pauze. Ook zit er een video in.
 
   <img src="readme-images/button.jpg" width="375px" alt="Afbeelding beweegt en de button highlight wanneer er op wordt gehoverd, met een kleine pauze">
 
@@ -110,11 +110,23 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Voortgang 1 (week 2)
 
-<details>
+<details open>
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+
+  Ik heb begonnen met alle content in mijn code te zetten. De tekst-inhoud was wel vanzelfsprekend. Wel waren sommmige headers niet logisch ingedeelt (dit staat ook in mijn bevindingen), dus ik heb besproken met de docent en gekeken wat nu het beste optie zou zijn qua headers.
+  
+Screenshots van nieuwe headers en tekst:
+
+
+  Bij de afbeeldingen heb ik een nieuwe mapje gemaakt genaamd "images". Toch ging het mis met een paar afbeeldingen die ik direct uit de website heb gehaald. Soms waren ze niet compleet dus er misten een stukje of het moment dat het maar 1px was en helemaal niet kon gebruiken. Dit kwam blijkbaar door dat sommige afbeeldingen vast zaten in hun eigen database. Ik heb toen gezocht naar andere afbeeldingen die ik kon gebruiken.
+
+Screenshots van afbeeldingen en foute pogingen:
+
+
+  Er zat ook een video in mijn gekozen website. Dit viel wel mee op uiteindelijk in mijn code te zetten alleen moest ik gebruik maken van de "<video>" tag
 
 
   ### Agenda voor meeting
