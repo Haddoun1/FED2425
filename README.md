@@ -133,6 +133,10 @@ Screenshots van afbeeldingen en foute pogingen:
 
   Er zat ook een video in mijn gekozen website. Dit viel wel mee op uiteindelijk in mijn code te zetten alleen moest ik gebruik maken van de "video" tag. 
 
+   ### Agenda voor meeting
+
+  Geen agenda gemaakt 
+
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
@@ -160,24 +164,33 @@ Screenshots van afbeeldingen en foute pogingen:
 
   Ik ben begonnen met het opstellen van mijn css. Ik heb een Root gemaakt. Dit eigenlijk gewoon een stylesheet waar je verschillende kleuren, font-sizes etc al kan maken en dan gemakkelijk kan toevoegen op andere elementen. Ik had hier een beetje moeite mee omdat ik steeds in de war raakten met welke namen ik heb gebruikt. 
 
-  Over namen gesproken, ik kreeg een goede tip van Anouk dat ik de namen van mijn images moest veranderen. Ik had overal een hoofdletter bij het begin en dit maakt niet perse uit maar het maakt het wel makkelijker als je die regel zelf voor je zet.
-  
-  Ik ben ook wat meer gaan focussen op flexbox en wat het allemaal inhoud. Ik heb Flexbox Froggy gespeeld en heb wat kennis opgedaan. Ik kon op 
-  
+  Over namen gesproken, ik kreeg een goede tip van Anouk dat ik de namen van mijn images moest veranderen. Ik had overal een hoofdletter bij het begin en dit maakt niet perse uit maar het maakt het wel makkelijker als je die regel zelf voor je zet. Ook heb ik met de hulp van Anouk de fonts erin kunnen krijgen met @font-face. 
 
+  <img src="readme-images/rootfont.png" width="375px" alt="Root en Font-face in mijn css">
+  
+  Ik ben ook wat meer gaan focussen op flexbox en wat het allemaal inhoud. Ik heb Flexbox Froggy gespeeld en heb wat kennis opgedaan. Ik kon op een paar afbeeldingen in mijn website op de goede plek krijgen. 
+
+  Iets kleins was ook dat ik met de hulp van Levon mijn VSC en Github heb kunnen linken. Dus nu als ik wat verander in VSC kan ik het gelijk pushen naar Github zonder de heletijd te kopieren en plakken. 
+
+  <img src="readme-images/commitgit.png" width="375px" alt="Commiten naar Github als ik iets heb veranderd in VSC">
 
 
 
   ### Agenda voor meeting
+
+  Geen agenda gemaakt 
   
+  ### Vragen voor meeting
+
+  - Meer uitleg over nth-of-type en hoe dat zou werken met mijn tweede pagina.
+  - Confirmatie over wat er nu allemaal in moet komen als je Surface Plane hebt gekozen.
+  - Of de headings goed en logisch staan.
+  - 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - 
 
 </details>
 
@@ -266,8 +279,10 @@ Screenshots van afbeeldingen en foute pogingen:
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. Alle afbeeldingen en content zijn van de Snickers Website: https://www.snickers.nl/ en 
+  2. Hoe een Video tag werkt heb ik van w3schools Website: https://www.w3schools.com/tags/tag_video.asp
+  3. Navigatie Balk hulp gekregen van de studenten assistent.
+  4. Er in zetten van de font met @font-face heb ik hulp gekregen van Anouk.
+  5. 
 
 </details>
