@@ -114,7 +114,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
   Ik heb begonnen met alle content in mijn code te zetten. De tekst-inhoud was wel vanzelfsprekend. Wel waren sommmige headers niet logisch ingedeelt (dit staat ook in mijn bevindingen), dus ik heb besproken met de docent en gekeken wat nu het beste optie zou zijn qua headers.
   
@@ -154,18 +153,23 @@ Screenshots van afbeeldingen en foute pogingen:
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+
+  Ik ben begonnen met het maken van een header en footer en het alvast creeren van mijn tweede pagina. 
+
+  Tijdens het creeren van mijn footer en header heb ik gemerkt dat ze allebij niet tegen de zijkanten kwamen. Douwe heeft me gelukkig daarbij geholpen en het lag aan dat de universal selector niet de padding en margin op "0" had. Sommige browsers zijn daar vervelend mij inclusief Firefox. 
+
+  Ik ben begonnen met het opstellen van mijn css. Ik heb een Root gemaakt. Dit eigenlijk gewoon een stylesheet waar je verschillende kleuren, font-sizes etc al kan maken en dan gemakkelijk kan toevoegen op andere elementen. Ik had hier een beetje moeite mee omdat ik steeds in de war raakten met welke namen ik heb gebruikt. 
+
+  Over namen gesproken, ik kreeg een goede tip van Anouk dat ik de namen van mijn images moest veranderen. Ik had overal een hoofdletter bij het begin en dit maakt niet perse uit maar het maakt het wel makkelijker als je die regel zelf voor je zet.
+  
+  Ik ben ook wat meer gaan focussen op flexbox en wat het allemaal inhoud. Ik heb Flexbox Froggy gespeeld en heb wat kennis opgedaan. Ik kon op 
+  
+
+
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
