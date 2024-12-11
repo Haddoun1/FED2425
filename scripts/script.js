@@ -2,7 +2,7 @@
 console.log("Bomboclat");
 
 const menuBtn = document.querySelector("header nav button")
-let menu = document.querySelector("main nav")
+let menu = document.querySelector("main > ul")
 const bodyEl = document.body 
 
 function openMenu(){
