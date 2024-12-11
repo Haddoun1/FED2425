@@ -26,6 +26,7 @@
 	--secondary-color: #210082;
 	--color-text: #ffffff;
 	--color-text2: #410C00;
+	--background-color: #f0b243;
 }
 
 
@@ -60,7 +61,7 @@ header nav {
 	position: relative;
 }
 
-	/* header nav ul {
+/* header nav ul {
 	position: absolute;
 	top: 2em;
 	width: 100vw;
@@ -71,40 +72,122 @@ header nav {
 
 /* Header */
 
+header:nth-of-type(1) img {
+	display: flex;
+	justify-content: flex-start;
+	width: 5em;
+	padding: 10%;
+	margin-top: .2em;
+	margin-left: .2em;
+}
 
-h2 {
+main section:nth-of-type(1) h2 {
 	font-family: "zuumme";
+	font-size: 2.3em;
 	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 7%;
+}
+
+main section:nth-of-type(1) p {
+	font-family: "zuumme";
+	font-size: 1.5em;
+	font-weight: lighter;
 	text-align: center;
 	text-transform: uppercase;
 }
 
-h3 {
-	font-family: "zuumme";
-	font-weight: bold;
-	text-align: left;
-	text-transform: uppercase;
-	font-size: 2em;
-	color: var(--secondary-color);
-	padding: 4%;
-
+main section:nth-of-type(2) {
+	background-color: var(--background-color);
 }
 
-h4 {
+main section:nth-of-type(2) img {
+	height: 100%;
+	width: 100%;
+	padding: 10%;
+	margin-top: 10%;
+}
+
+main section:nth-of-type(2) h3 {
+	color: var(--color-text);
+	padding: 10%;
+	font-size: 2.9em;
+	text-align: left; 
+	font-family: "zuumme";
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 3em;
+	line-height: 1em;
+	
+}
+
+main section:nth-of-type(3) img {
+	height: 100%;
+	width: 100%;
+	padding: 10%;
+}
+
+main section:nth-of-type(3) h3 {
 	font-family: "zuumme";
 	font-weight: bold;
 	text-align: center;
 	text-transform: uppercase;
+	font-size: 2.5em;
+	color: var(--color-text2);
+	line-height: 1em;
+	margin-top: 1em;
 }
 
-p {
-	text-align: left;
+main section:nth-of-type(3) p {
+	text-align: center;
 	font-family: "Genta";
 	font-weight: lighter;
 	color: var(--color-text2);
 	font-size: 1.3em;
 	line-height: 1em;
 	padding: 4%;
+
+}
+
+main section:nth-of-type(4) img {
+width: 100%;
+}
+
+main section:nth-of-type(5) p {
+	text-align: center;
+	font-family: "Genta";
+	font-weight: lighter;
+	color: var(--color-text2);
+	font-size: 1.3em;
+	line-height: 1em;
+	padding: 4%;
+	}
+
+	main section:nth-of-type(5) h3 {
+		font-family: "zuumme";
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 2.5em;
+	color: var(--color-text2);
+	line-height: 1em;
+	margin-top: 1em;
+		}
+
+		main section:nth-of-type(6) img {
+			width: 100vh;
+			}
+
+
+
+
+h4 {
+	font-family: "Genta";
+	font-weight: lighter;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 1.5rem;
 
 }
 
@@ -122,15 +205,17 @@ li {
 }
 
 video {
+	position: relative;
 	width: 100%;
 	height: 100%;
 	object-fit: cover;
 }
 
-img {
-	width: 35%;
-	padding: 4%;
-}
+
+/* img:nth-child(3) {
+	width: 100%;
+	padding: 10%;
+} */
 
 
 /* Footer */
