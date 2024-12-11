@@ -5,6 +5,11 @@
   box-sizing:border-box;  
 }
 
+* {
+	margin: 0%;
+	padding: 0%;
+}
+
 
 
 
@@ -15,8 +20,10 @@
 /*********************/
 :root {
 	/* startje */
-	--color-text:#111;
-	--color-background:#90a600;
+	--primary-color: #410C00;
+	--secondary-color: #210082;
+	--color-text:#ffffff;
+	--color-text2: #410C00;
 }
 
 
@@ -39,18 +46,16 @@
 
 /* jouw code */
 
+
+/* Header */
 header {
-	background-color: #410C00;
+	background-color: var(--primary-color);
 }
 
-footer {
-	background-color: #410C00;
 
-}
+
 
 h1 {
-	text-align: center;
-	text-transform: uppercase;
 	
 }
 
@@ -63,9 +68,13 @@ h2 {
 
 h3 {
 	font-family: "zuumme";
-	font-weight:bold;
-	text-align: center;
+	font-weight: bold;
+	text-align: left;
 	text-transform: uppercase;
+	font-size: 2em;
+	color: var(--secondary-color);
+	padding: 4%;
+
 }
 
 h4 {
@@ -78,8 +87,12 @@ h4 {
 p {
 	text-align: left;
 	font-family: "Genta";
-	color: #eee;
+	font-weight: lighter;
+	color: var(--color-text2);
+	font-size: 1.3em;
 	line-height: 1em;
+	padding: 4%;
+
 }
 
 
@@ -91,6 +104,25 @@ ul {
 
 li {
 display: inline;
+
+color: var(--color-text);
+}
+
+video {
+	width: 100%;
+	height: 100%;
+	object-fit: cover; 
+}
+
+img {
+	width: 35%;
+	padding: 4%;
+}
+
+
+/* Footer */
+footer {
+	background-color: var(--primary-color);
 }
 
 
