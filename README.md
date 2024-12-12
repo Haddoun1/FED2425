@@ -218,7 +218,9 @@ Screenshots van afbeeldingen en foute pogingen:
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik heb met Ali (de studenten assistent) gezeten aan een paar problemen opgelost.
+
+  Ik kreeg mijn hamburgermenu niet aan de praat. Ik kreeg de lijntjes die ik had niet goed recht dus Ali heeft me daarbij geholpen. 
 
 
   ### Agenda voor meeting
@@ -281,7 +283,7 @@ Screenshots van afbeeldingen en foute pogingen:
 
   1. Alle afbeeldingen en content zijn van de Snickers Website: https://www.snickers.nl/ en 
   2. Hoe een Video tag werkt heb ik van w3schools Website: https://www.w3schools.com/tags/tag_video.asp
-  3. Navigatie Balk hulp gekregen van de studenten assistent.
+  3. Navigatie Balk/Hamburger menu hulp gekregen van de studenten assistent.
   4. Er in zetten van de font met @font-face heb ik hulp gekregen van Anouk.
   5. 
 
