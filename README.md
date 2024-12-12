@@ -220,17 +220,11 @@ Screenshots van afbeeldingen en foute pogingen:
   ### Stand van zaken
   Ik heb met Ali (de studenten assistent) gezeten aan een paar problemen opgelost.
 
-  Ik kreeg mijn hamburgermenu niet aan de praat. Ik kreeg de lijntjes die ik had niet goed recht dus Ali heeft me daarbij geholpen. 
+  Ik kreeg mijn hamburgermenu niet aan de praat. Ik kreeg de lijntjes die ik had niet goed recht dus Ali heeft me daarbij geholpen. Hij heeft me gelijk geholpen met het opstellen van de Javascript. 
 
+  Verder ben ik geholpen met het maken van 
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  ### Vragen voor meeting
 
 
   ### Verslag van meeting
@@ -285,6 +279,6 @@ Screenshots van afbeeldingen en foute pogingen:
   2. Hoe een Video tag werkt heb ik van w3schools Website: https://www.w3schools.com/tags/tag_video.asp
   3. Navigatie Balk/Hamburger menu hulp gekregen van de studenten assistent.
   4. Er in zetten van de font met @font-face heb ik hulp gekregen van Anouk.
-  5. 
+  5. Extra Grid uitleg en tekst krijgen in afbeeldingen/videos van (De studenten assistent)
 
 </details>

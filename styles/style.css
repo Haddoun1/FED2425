@@ -98,6 +98,7 @@ header nav button {
 	background-color: transparent;
 	border: none;
 	justify-content: center;
+	cursor: pointer;
 }
 
 header nav button::after {
@@ -182,6 +183,7 @@ main>ul li details[open] summary svg {
 
 /* Main */
 
+/* Hulp van Ali met de grid */
 main section:nth-of-type(1),
 main section:nth-of-type(5) {
 	display: grid;
@@ -189,6 +191,7 @@ main section:nth-of-type(5) {
 	flex-direction: column;
 }
 
+/* Hulp van Ali met de grid */
 main section:nth-of-type(1) video {
 	grid-area: 1/1;
 	width: 100%;
@@ -197,6 +200,7 @@ main section:nth-of-type(1) video {
 	filter: brightness(.6);
 }
 
+/* Hulp van Ali met de grid */
 main section:nth-of-type(1) h2 {
 	grid-area: 1/1;
 	font-family: "zuumme";
@@ -209,6 +213,7 @@ main section:nth-of-type(1) h2 {
 	font-size: 1.4em;
 }
 
+/* Hulp van Ali met de grid */
 main section:nth-of-type(1) h3 {
 	grid-area: 1/1;
 	font-family: "zuumme";
@@ -221,7 +226,7 @@ main section:nth-of-type(1) h3 {
 	width: 90%;
 }
 
-
+/* Hulp van Ali met de grid */
 main section:nth-of-type(1) div {
 	display: flex;
 	flex-direction: column;
