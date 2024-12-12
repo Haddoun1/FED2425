@@ -206,6 +206,8 @@ Screenshots van afbeeldingen en foute pogingen:
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
+  - De website heeft een combinatie van Nederlandse maar ook Engels woorden. Dus de screenreader leest het raar op.
+
 </details>
 
 
@@ -298,5 +300,7 @@ Screenshots van afbeeldingen en foute pogingen:
   3. Navigatie Balk/Hamburger menu hulp gekregen van de studenten assistent.
   4. Er in zetten van de font met @font-face heb ik hulp gekregen van Anouk.
   5. Extra Grid uitleg en tekst krijgen in afbeeldingen/videos van (De studenten assistent)
+  6. Aria-Labels door ChatGPT: https://chatgpt.com/share/675ac6bc-9e20-8005-82f3-cc06e14c716d
+  
 
 </details>
