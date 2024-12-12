@@ -222,9 +222,23 @@ Screenshots van afbeeldingen en foute pogingen:
 
   Ik kreeg mijn hamburgermenu niet aan de praat. Ik kreeg de lijntjes die ik had niet goed recht dus Ali heeft me daarbij geholpen. Hij heeft me gelijk geholpen met het opstellen van de Javascript. 
 
-  Verder ben ik geholpen met het maken van 
+  Verder ben ik geholpen met het goed zetten van mijn sections. Het was eerst nog een beetje slordig en vooral toen ik ze allemaal begon te stylen.
+
+  Ook heeft Ali een suggestie gedaan om al mijn afbeeldingen in een ul en li te zetten. 
+
+  Ik heb ook hulp gekregen met goed zetten van mijn tekst in een afbeelding en video. Ali deed de voorstel om grid te gebruiken alleen begrijp ik het nogsteeds niet heel goed. Ook zei hij dat het slimmer was om de afbeelding/video wat donkerder te maken zodat het beter leesbaar zou zijn met de witte tekst. 
+
+  Mijn css was nog heel slordig dus ik heb het ook even opgemaakt.
+
+  Ook heb ik bij elke button een "cursor pointer toegevoegd".
+
+
 
   ### Vragen voor meeting
+
+  - Hoe ik de tweede pagina het best kan stylen
+  - Is mijn bron vermelding duidelijk genoeg
+  - Inspiratie voor meer Surface plane elementen
 
 
   ### Verslag van meeting

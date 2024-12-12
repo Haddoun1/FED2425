@@ -171,6 +171,7 @@ main>ul li details summary svg {
 	width: .8em;
 	fill: var(--background-color);
 	transition: .5s;
+	cursor: pointer;
 }
 
 main>ul li details[open] summary svg {
