@@ -209,37 +209,6 @@ main section:nth-of-type(1) h2 {
 	font-size: 1.4em;
 }
 
-main section:nth-of-type(5) h3 {
-	grid-area: 1/1;
-	font-family: "zuumme";
-	font-size: 2.3em;
-	font-weight: lighter;
-	text-transform: uppercase;
-	z-index: 1;
-	margin-bottom: 1rem;
-	color: var(--color-text);
-	font-size: 1.4em;
-}
-
-main section:nth-of-type(5) p {
-	grid-area: 1/1;
-	font-family: "zuumme";
-	font-size: 1em;
-	font-weight: lighter;
-	text-transform: uppercase;
-	z-index: 1;
-	margin-bottom: 1rem;
-	color: var(--color-text);
-	font-size: 1.4em;
-}
-
-main section:nth-of-type(5) img {
-	grid-area: 1/1;
-	width: 100%;
-	object-fit: cover;
-	filter: brightness(.6);
-}
-
 main section:nth-of-type(1) h3 {
 	grid-area: 1/1;
 	font-family: "zuumme";
@@ -351,34 +320,49 @@ main section:nth-of-type(4) img {
 
 main section:nth-of-type(5) img {
 	position: relative;
-	width: 100%;
 	height: 100%;
 	object-fit: cover;
+	grid-area: 1/1;
+	width: 100%;
+	filter: brightness(.6);
 }
 
 main section:nth-of-type(5) p {
+	grid-area: 1/1;
 	text-align: center;
 	font-family: "Genta";
 	font-weight: lighter;
-	color: var(--color-text2);
-	font-size: 1.3em;
-	line-height: 1em;
+	color: var(--color-text);
 	padding: 4%;
+	font-size: 1em;
+	text-transform: lowercase;
+	z-index: 1;
+	margin-bottom: 1rem;
+	font-size: 1em;
 }
 
 main section:nth-of-type(5) h3 {
+	grid-area: 1/1;
+	z-index: 1;
 	font-family: "zuumme";
 	font-weight: bold;
 	text-align: center;
 	text-transform: uppercase;
 	font-size: 2.5em;
-	color: var(--color-text2);
+	color: var(--color-text);
 	line-height: 1em;
-	margin-top: 1em;
+	margin-top: -0.5em;
 }
 
-
-
+main section:nth-of-type(5) div {
+	display: flex;
+	flex-direction: column;
+	align-self: center;
+	grid-area: 1/1;
+	padding: 1em;
+	color: var(--color-text);
+	font-size: 1em;
+}
 
 /* Footer */
 
@@ -401,6 +385,7 @@ footer section:nth-of-type(2) h3 {
 	font-weight: lighter;
 	color: var(--color-text);
 	font-size: 1.3em;
+	margin-bottom: -1.5em;
 	padding: 5%;
 }
 
