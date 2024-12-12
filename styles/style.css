@@ -49,31 +49,34 @@
 /****************/
 
 
-/* Header */
 
 body.active {
 	overflow: hidden;
 }
 
+/* Header */
+
 a {
-	color: #ffffff;
+	color: var(--color-text);
 	text-decoration: none;
 }
 
 ul {
 	padding: 0;
-	
+
 }
 
 li {
 	list-style-type: none;
 }
 
-details > summary {
+details>summary {
 	list-style: none;
-  }details > summary::-webkit-details-marker {
+}
+
+details>summary::-webkit-details-marker {
 	display: none;
-  }
+}
 
 header {
 	background-color: var(--primary-color);
@@ -92,14 +95,13 @@ header nav button {
 	display: flex;
 	flex-direction: column;
 	gap: .3em;
-	/* aspect-ratio: 1; */
 	background-color: transparent;
 	border: none;
 	justify-content: center;
 }
 
 header nav button::after {
-	content:"menu";
+	content: "menu";
 	color: var(--background-color);
 	text-transform: uppercase;
 }
@@ -110,17 +112,6 @@ header nav button span {
 	height: 4px;
 	background-color: var(--color-text);
 }
-
-/* header nav ul {
-	position: absolute;
-	top: 2em;
-	width: 100vw;
-	height: 100vh;
-	background-color: aqua;
-}	 */
-
-
-/* Header */
 
 header:nth-of-type(1) img {
 	display: flex;
@@ -134,9 +125,9 @@ main {
 	position: relative;
 }
 
-main > ul {
+main>ul {
 	position: absolute;
-    top: 0;
+	top: 0;
 	background-color: var(--primary-color);
 	height: calc(100vh - 5.5em);
 	z-index: 2;
@@ -147,55 +138,64 @@ main > ul {
 	display: none;
 }
 
- main > ul.active {
+main>ul.active {
 	display: flex;
- }
+}
 
-main > ul li {
+main>ul li {
 	font-family: "genta";
 	text-transform: uppercase;
 	font-size: 2em;
-	color: var(--color-text);
 }
 
-main > ul li details summary {
-display: flex;
-align-items: center;
-gap: .5em;
+main>ul li details summary {
+	display: flex;
+	align-items: center;
+	gap: .5em;
+	color: var(--color-text);
+
 }
-main > ul li details ul li {
+
+main>ul li details ul li {
 	color: var(--background-color);
 	font-size: 1em;
 }
 
-main > ul li details ul {
+main>ul li details ul {
 	flex-direction: column;
 	display: flex;
 }
 
-main > ul li details summary svg {
+main>ul li details summary svg {
 	width: .8em;
 	fill: var(--background-color);
 	transition: .5s;
 }
 
-main > ul li details[open]  summary svg {
+main>ul li details[open] summary svg {
 	transform: rotate(180deg);
-  }
+}
 
-  main section:nth-of-type(1), main section:nth-of-type(5) {
+/* Header */
+
+
+
+/* Main */
+
+main section:nth-of-type(1),
+main section:nth-of-type(5) {
 	display: grid;
 	grid-template-columns: repeat(1, 1fr);
 	flex-direction: column;
-  }
+}
 
-  main section:nth-of-type(1) video {
+main section:nth-of-type(1) video {
 	grid-area: 1/1;
 	width: 100%;
 	height: calc(100vh - 5.5em);
 	object-fit: cover;
 	filter: brightness(.6);
-  }
+}
 
 main section:nth-of-type(1) h2 {
 	grid-area: 1/1;
@@ -238,7 +238,7 @@ main section:nth-of-type(5) img {
 	width: 100%;
 	object-fit: cover;
 	filter: brightness(.6);
-  }
+}
 
 main section:nth-of-type(1) h3 {
 	grid-area: 1/1;
@@ -252,24 +252,16 @@ main section:nth-of-type(1) h3 {
 	width: 90%;
 }
 
-main section:nth-of-type(1) video {
-	grid-area: 1/1;
-	width: 100%;
-	height: calc(100vh - 5.5em);
-	object-fit: cover;
-	filter: brightness(.6);
-  }
 
-main section:nth-of-type(5) div {
+main section:nth-of-type(1) div {
 	display: flex;
 	flex-direction: column;
 	align-self: center;
 	grid-area: 1/1;
-	text-align: center;
+	text-align: left;
 	padding: 1em;
 	color: var(--color-text);
 	font-size: 1em;
-	z-index: 2;
 }
 
 main section:nth-of-type(2) {
@@ -288,13 +280,13 @@ main section:nth-of-type(2) h3 {
 	color: var(--color-text);
 	padding: 10%;
 	font-size: 2.9em;
-	text-align: left; 
+	text-align: left;
 	font-family: "zuumme";
 	font-weight: bold;
 	text-transform: uppercase;
 	font-size: 3em;
 	line-height: 1em;
-	
+
 }
 
 main section:nth-of-type(3) ul {
@@ -333,9 +325,13 @@ main section:nth-of-type(3) h3 {
 }
 
 main section:nth-of-type(3) h4 {
-	font-family: "zuumme";
-	font-weight: bold;
+	font-family: "Genta";
+	font-weight: 50;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 1.5rem;
 	color: var(--color-text2);
+	
 }
 
 main section:nth-of-type(3) p {
@@ -353,44 +349,86 @@ main section:nth-of-type(4) img {
 	object-fit: cover;
 }
 
-/* Tweede Pagina */
-
-[class="tweedepagina"] section:nth-of-type()
-
-
-
-	
-
-		
-
-			footer:nth-of-type(1) img {
-				display: flex;
-				justify-content: flex-start;
-				width: 50%;
-				padding: 10%;
-				margin-top: .2em;
-				margin-left: .2em;
-			}
-
-
-
-
-/* img:nth-child(3) {
+main section:nth-of-type(5) img {
+	position: relative;
 	width: 100%;
-	padding: 10%;
-} */
+	height: 100%;
+	object-fit: cover;
+}
+
+main section:nth-of-type(5) p {
+	text-align: center;
+	font-family: "Genta";
+	font-weight: lighter;
+	color: var(--color-text2);
+	font-size: 1.3em;
+	line-height: 1em;
+	padding: 4%;
+}
+
+main section:nth-of-type(5) h3 {
+	font-family: "zuumme";
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 2.5em;
+	color: var(--color-text2);
+	line-height: 1em;
+	margin-top: 1em;
+}
+
+
 
 
 /* Footer */
+
 footer {
 	background-color: var(--primary-color);
 }
 
+footer section:nth-of-type(1) img {
+	display: flex;
+	justify-content: flex-start;
+	width: 5em;
+	margin-top: 0.2em;
+	margin-left: 0.2em;
+	padding: 0.5em;
+}
+
+footer section:nth-of-type(2) h3 {
+	text-align: left;
+	font-family: "zuumme";
+	font-weight: lighter;
+	color: var(--color-text);
+	font-size: 1.3em;
+	padding: 5%;
+}
+
+footer section:nth-of-type(2) p {
+	text-align: left;
+	font-family: "Genta";
+	font-weight: lighter;
+	color: var(--color-text);
+	font-size: 1em;
+	line-height: 2em;
+	padding: 5%;
+	
+}
+
+/* Footer */
+
+
+
+
+
+/* Animaties */
+
 @keyframes floating {
 	from {
-		transform: translateY(-1em) 
-	} 
-	to{
-		transform: translateY(1em) 
+		transform: translateY(-1em)
+	}
+
+	to {
+		transform: translateY(1em)
 	}
 }
