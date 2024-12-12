@@ -222,7 +222,7 @@ Screenshots van afbeeldingen en foute pogingen:
 
   Ik kreeg mijn hamburgermenu niet aan de praat. Ik kreeg de lijntjes die ik had niet goed recht dus Ali heeft me daarbij geholpen. Hij heeft me gelijk geholpen met het opstellen van de Javascript. 
 
-  <img src="readme-images/Hamburgermenu.png" width="375px" alt="Hamburger menu gemaakt">
+  <img src="readme-images/hamburgermenu.png" width="375px" alt="Hamburger menu gemaakt">
 
   Verder ben ik geholpen met het goed zetten van mijn sections. Het was eerst nog een beetje slordig en vooral toen ik ze allemaal begon te stylen.
 
