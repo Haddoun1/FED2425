@@ -284,6 +284,18 @@ Screenshots van afbeeldingen en foute pogingen:
 
 
 
+### Nog te doen voor de herkansing
+- maak een formulier (op teams)
+- Maak een animatie voor de hamburgermenu
+- Alles checken voor hoofdletters en anders stylen
+- Span in lang=en zetten bij engels worden misschien
+- Wcag formulier maken 
+- Netjes houden
+- Meer surface plane dingen
+- Light mode dark mode toggle 
+- Kerst hoedjes 
+- Read me goed bijhouden
+
 
 
 ## Bronnenlijst

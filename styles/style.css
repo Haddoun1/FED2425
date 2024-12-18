@@ -48,6 +48,10 @@
 /* JOUW STYLING */
 /****************/
 
+/****************/
+/* Eerste Pagina*/
+/****************/
+
 
 
 body.active {
@@ -409,6 +413,49 @@ footer section:nth-of-type(2) p {
 }
 
 /* Footer */
+
+/****************/
+/* Tweede Pagina*/
+/****************/
+
+.tweedepagina section:nth-of-type(1) {
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	flex-direction: column;
+}
+
+.tweedepagina section:nth-of-type(1) img {
+	grid-area: 1/1;
+	width: 100%;
+	object-fit: cover;
+	filter: brightness(.7);
+}
+
+.tweedepagina section:nth-of-type(1) h2 {
+	grid-area: 1/1;
+	font-family: "zuumme";
+	font-size: 2.3em;
+	font-weight: lighter;
+	text-transform: uppercase;
+	z-index: 1;
+	margin-top: 1.5em;
+	color: var(--color-text);
+	font-size: 2.5em;
+	text-align: center;
+}
+
+.tweedepagina section:nth-of-type(1) p {
+	display: flex;
+	flex-direction: column;
+	align-self: center;
+	font-family: "zuumme";
+	grid-area: 1/1;
+	text-align: center;
+	margin-top: 10em;
+	color: var(--color-text);
+	font-size: 1em;
+	z-index: 1;
+}
 
 
 /* Animaties */
