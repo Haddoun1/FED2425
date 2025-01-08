@@ -405,7 +405,7 @@ main section:nth-of-type(6) form {
 	max-width: 30rem;
 	margin: 0 auto;
 	overflow: hidden;
-	height: 80vh
+	height: 85vh
 }
 
 main section:nth-of-type(6) form:invalid {
