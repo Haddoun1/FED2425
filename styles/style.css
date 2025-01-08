@@ -419,8 +419,8 @@ main section:nth-of-type(6) fieldset {
 	margin-bottom: 1em;
 	border: none;
 	transition: all .2s;
-	padding: 1em 1em 0;
-	background: PaleGreen;
+	padding: 2em 1em 0;
+	background: rgb(0, 223, 96);
 	position: relative;
 }
 
@@ -438,7 +438,7 @@ main section:nth-of-type(6) fieldset:valid+fieldset {
 main section:nth-of-type(6) fieldset:valid p {
 	display: block;
 	color: White;
-	background: seaGreen;
+	background: rgb(255, 255, 255);
 }
 
 main section:nth-of-type(6) fieldset:invalid {
@@ -486,11 +486,6 @@ main section:nth-of-type(6) input:disabled {
 	background-color: #f9f9f9;
 }
 
-main section:nth-of-type(6) input::placeholder {
-	color: rgb(0, 0, 0);
-	font-style: italic;
-}
-
 main section:nth-of-type(6) button {
 	font-size: 1.25em;
 	flex: 0 0 2em;
@@ -513,22 +508,9 @@ main section:nth-of-type(6) button:focus {
 	transform: scale(1.1, 1.1);
 }
 
-main section:nth-of-type(6) .tooltip {
-	z-index: 1;
-	color: DodgerBlue;
-	padding: .25em;
-	background: AliceBlue;
-	border: 1px solid currentColor;
-	font-style: italic;
-	transition: all .2s;
-	margin-top: -3em;
-	opacity: 0;
-	padding: .25rem;
-}
-
 main section:nth-of-type(6) .feedback {
 	position: absolute;
-	top: 0.1em;
+	top: 0.7em;
 	right: 1em;
 	width: 2rem;
 	height: 2rem;
