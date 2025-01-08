@@ -145,7 +145,7 @@ main>ul {
 	padding: 1em;
 	transform: translateX(100vw);
 	transition: .5s;
-    flex-direction: column; 
+	flex-direction: column;
 	display: flex;
 }
 
@@ -317,7 +317,6 @@ main section:nth-of-type(3) h4 {
 	font-size: 1.5rem;
 	color: var(--color-text2);
 	margin: 1em
-	
 }
 
 main section:nth-of-type(3) p {
@@ -387,15 +386,15 @@ main section:nth-of-type(5) div {
 }
 
 main section:nth-of-type(6) form {
-	display:flex;
-  flex-direction:column;
-  transition: all .2s;
-  padding:1em;
-  background:HoneyDew;
-  max-width:30rem;
-  margin:0 auto;
-  overflow:hidden;
-  height:100vh
+	display: flex;
+	flex-direction: column;
+	transition: all .2s;
+	padding: 1em;
+	background: HoneyDew;
+	max-width: 30rem;
+	margin: 0 auto;
+	overflow: hidden;
+	height: 100vh
 }
 
 main section:nth-of-type(6) form:invalid {
@@ -403,110 +402,120 @@ main section:nth-of-type(6) form:invalid {
 }
 
 main section:nth-of-type(6) fieldset {
-	display:flex;
-	flex-direction:column;
-	justify-content:center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 	margin-bottom: 1em;
-	border:none;
+	border: none;
 	transition: all .2s;
-	padding:1em 1em 0;
-	background:PaleGreen;
+	padding: 1em 1em 0;
+	background: PaleGreen;
 	position: relative;
-  }
+}
 
-main section:nth-of-type(6) fieldset + fieldset {
-	opacity:0;
-	transition:.25s .25s;
-	transform:translateX(-120%)
-  }
+main section:nth-of-type(6) fieldset+fieldset {
+	opacity: 0;
+	transition: .25s .25s;
+	transform: translateX(-120%)
+}
 
-main section:nth-of-type(6) fieldset:valid + fieldset {
-	opacity:1;
-	transform:translateX(0)
-  }
+main section:nth-of-type(6) fieldset:valid+fieldset {
+	opacity: 1;
+	transform: translateX(0)
+}
 
 main section:nth-of-type(6) fieldset:valid p {
-	display:block;
+	display: block;
 	color: White;
-	background:seaGreen;
-  }
+	background: seaGreen;
+}
 
 main section:nth-of-type(6) fieldset:invalid {
 	background: rgba(255, 224, 13, .2);
-  } 
+}
 
-main section:nth-of-type(6) fieldset:invalid p{
-	display:none;
-  }
+main section:nth-of-type(6) fieldset:invalid p {
+	display: none;
+}
 
 main section:nth-of-type(6) input {
-	border-color:#000;
-	padding:.25em;
+	border-color: #000;
+	padding: .25em;
 	font-size: 1.25em;
 	margin-bottom: 1em;
-	width:100%;
-	transition:all .1   s;
-	z-index:2;
-  }
+	width: 100%;
+	transition: all .1 s;
+	z-index: 2;
+}
 
-  main section:nth-of-type(6) input:valid {
-	border-color:seaGreen;
+main section:nth-of-type(6) input:valid {
+	border-color: seaGreen;
 	background-color: rgb(232, 245, 233);
-  } 
-  main section:nth-of-type(6) input:invalid {
-	border-color:#FFE082;
+}
+
+main section:nth-of-type(6) input:invalid {
+	border-color: #FFE082;
 	background: rgba(255, 224, 13, .2);
-  }
-  main section:nth-of-type(6) input:focus {
+}
+
+main section:nth-of-type(6) input:focus {
 	transform: scale(1.01, 1.01);
-	outline:none;
-	box-shadow:0 0 0 3px rgba(0,0,0,.25)
-  }
-  main section:nth-of-type(6) input:focus + p.tooltip {
-	display:block;
-	opacity:1;
-	margin-top:-1.3em;
-  }
-  main section:nth-of-type(6) input:disabled {
-	border-color:#eee;
+	outline: none;
+	box-shadow: 0 0 0 3px rgba(0, 0, 0, .25)
+}
+
+main section:nth-of-type(6) input:focus+p.tooltip {
+	display: block;
+	opacity: 1;
+	margin-top: -1.3em;
+}
+
+main section:nth-of-type(6) input:disabled {
+	border-color: #eee;
 	background-color: #f9f9f9;
-  }
-  main section:nth-of-type(6) input::placeholder {
-	color:rgba(0,0,0,.25);
-	font-style:italic;
-  }
-  main section:nth-of-type(6) button {
+}
+
+main section:nth-of-type(6) input::placeholder {
+	color: rgba(0, 0, 0, .25);
+	font-style: italic;
+}
+
+main section:nth-of-type(6) button {
 	font-size: 1.25em;
-	flex:0 0 2em;
-	transition:all .2s .2s;
-	opacity:0;
-	width:6em;
-	border-radius:.5rem;
-	background-color:seaGreen;
-	color:white;
-	outline:none;
-	border:none;
-	box-shadow:0 0 5px rgba(0,0,0,0.2)
-  }
-  main section:nth-of-type(6) form:valid button {
-	opacity:1
-  }
-  main section:nth-of-type(6) button:focus {
+	flex: 0 0 2em;
+	transition: all .2s .2s;
+	opacity: 0;
+	width: 6em;
+	border-radius: .5rem;
+	background-color: seaGreen;
+	color: white;
+	outline: none;
+	border: none;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.2)
+}
+
+main section:nth-of-type(6) form:valid button {
+	opacity: 1
+}
+
+main section:nth-of-type(6) button:focus {
 	transform: scale(1.1, 1.1);
-  }
-  main section:nth-of-type(6) .tooltip { 
-	z-index:1;
-	color:DodgerBlue;
-	padding:.25em;
-	background:AliceBlue;
+}
+
+main section:nth-of-type(6) .tooltip {
+	z-index: 1;
+	color: DodgerBlue;
+	padding: .25em;
+	background: AliceBlue;
 	border: 1px solid currentColor;
-	font-style:italic;
-	transition:all .2s;
-	margin-top:-3em;
-	opacity:0;
-	padding:.25rem;
-  }
-  main section:nth-of-type(6) .feedback {
+	font-style: italic;
+	transition: all .2s;
+	margin-top: -3em;
+	opacity: 0;
+	padding: .25rem;
+}
+
+main section:nth-of-type(6) .feedback {
 	position: absolute;
 	top: -2em;
 	right: 1em;
@@ -515,13 +524,14 @@ main section:nth-of-type(6) input {
 	text-align: center;
 	line-height: 2rem;
 	border-radius: 50%;
-	transform:translateY(-3rem);
-	z-index:10;
-	transition:.25s;
-  }
-  main section:nth-of-type(6) fieldset:valid .feedback {
-	transform:translateY(0)
-  }
+	transform: translateY(-3rem);
+	z-index: 10;
+	transition: .25s;
+}
+
+main section:nth-of-type(6) fieldset:valid .feedback {
+	transform: translateY(0)
+}
 
 
 
@@ -561,7 +571,7 @@ footer section:nth-of-type(2) p:nth-of-type(1) {
 	font-size: 1em;
 	line-height: 2em;
 	padding: 5%;
-	
+
 }
 
 footer section:nth-of-type(2) p:nth-of-type(2) {
@@ -572,7 +582,7 @@ footer section:nth-of-type(2) p:nth-of-type(2) {
 	font-size: 0.8em;
 	line-height: 2em;
 	padding: 5%;
-	
+
 }
 
 /* Footer */
@@ -711,7 +721,7 @@ footer section:nth-of-type(2) p:nth-of-type(2) {
 	margin-top: -5%;
 }
 
- .tweedepagina section:nth-of-type(5) img {
+.tweedepagina section:nth-of-type(5) img {
 	height: 100%;
 	width: 100%;
 	padding: 5%;
@@ -720,7 +730,7 @@ footer section:nth-of-type(2) p:nth-of-type(2) {
 	filter: none;
 }
 
- .tweedepagina section:nth-of-type(5) h3 {
+.tweedepagina section:nth-of-type(5) h3 {
 	text-align: left;
 	color: var(--secondary-color);
 	padding: 5%;
@@ -730,7 +740,7 @@ footer section:nth-of-type(2) p:nth-of-type(2) {
 	grid-area: auto;
 }
 
- .tweedepagina section:nth-of-type(5) p {
+.tweedepagina section:nth-of-type(5) p {
 	text-align: left;
 	color: var(--color-text2);
 	padding: 5%;
