@@ -12,6 +12,8 @@
 * {
 	margin: 0%;
 	padding: 0%;
+	color: white;
+	font-family: "Genta";
 }
 
 
@@ -385,20 +387,29 @@ main section:nth-of-type(5) div {
 	font-size: 1em;
 }
 
+main section:nth-of-type(6) h3 {
+	font-family: "zuumme";
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 2.5em;
+	color: var(--color-text);
+	margin: 1em 0;
+}
 main section:nth-of-type(6) form {
 	display: flex;
 	flex-direction: column;
 	transition: all .2s;
 	padding: 1em;
-	background: HoneyDew;
+	background: var(--background-color);
 	max-width: 30rem;
 	margin: 0 auto;
 	overflow: hidden;
-	height: 100vh
+	height: 80vh
 }
 
 main section:nth-of-type(6) form:invalid {
-	background: rgba(255, 224, 13, .2);
+	background: var(--background-color);
 }
 
 main section:nth-of-type(6) fieldset {
@@ -431,7 +442,7 @@ main section:nth-of-type(6) fieldset:valid p {
 }
 
 main section:nth-of-type(6) fieldset:invalid {
-	background: rgba(255, 224, 13, .2);
+	background: var(--primary-color);
 }
 
 main section:nth-of-type(6) fieldset:invalid p {
@@ -449,8 +460,8 @@ main section:nth-of-type(6) input {
 }
 
 main section:nth-of-type(6) input:valid {
-	border-color: seaGreen;
-	background-color: rgb(232, 245, 233);
+	border-color: var(--background-color);
+	background-color: var(--background-color);
 }
 
 main section:nth-of-type(6) input:invalid {
@@ -476,7 +487,7 @@ main section:nth-of-type(6) input:disabled {
 }
 
 main section:nth-of-type(6) input::placeholder {
-	color: rgba(0, 0, 0, .25);
+	color: rgb(0, 0, 0);
 	font-style: italic;
 }
 
@@ -517,7 +528,7 @@ main section:nth-of-type(6) .tooltip {
 
 main section:nth-of-type(6) .feedback {
 	position: absolute;
-	top: -2em;
+	top: 0.1em;
 	right: 1em;
 	width: 2rem;
 	height: 2rem;
