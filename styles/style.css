@@ -136,7 +136,7 @@ header:nth-of-type(1) img {
 	width: 5em;
 	margin-top: .2em;
 	margin-left: .2em;
-	transition: 2s;
+	transition: 0.2s;
 }
 
 header:nth-of-type(1) img:hover {
@@ -557,7 +557,7 @@ footer section:nth-of-type(1) img {
 	margin-top: 0.2em;
 	margin-left: 0.2em;
 	padding: 0.5em;
-	transition: 2s;
+	transition: 0.2s;
 }
 
 footer section:nth-of-type(1) img:hover {
