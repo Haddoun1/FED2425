@@ -69,6 +69,11 @@ a {
 	text-decoration: none;
 }
 
+a:hover {
+	color: var(--background-color);
+	text-decoration: none;
+}
+
 ul {
 	padding: 0;
 
@@ -131,11 +136,11 @@ header:nth-of-type(1) img {
 	width: 5em;
 	margin-top: .2em;
 	margin-left: .2em;
-	transition: 0.5s;
+	transition: 2s;
 }
 
 header:nth-of-type(1) img:hover {
-	scale: 1.1;
+	animation: shake 1.5s ease-in-out infinite;
 }
 
 main {
@@ -187,6 +192,8 @@ main>ul li details ul {
 main>ul li details summary svg {
 	width: .8em;
 	fill: var(--background-color);
+	stroke: var(--background-color);
+	stroke-width: 5%;
 	transition: .5s;
 	cursor: pointer;
 }
@@ -461,7 +468,7 @@ main section:nth-of-type(6) input {
 	font-size: 1.25em;
 	margin-bottom: 1em;
 	width: 100%;
-	transition: all .1 s;
+	transition: all .1s;
 	z-index: 2;
 }
 
@@ -550,11 +557,11 @@ footer section:nth-of-type(1) img {
 	margin-top: 0.2em;
 	margin-left: 0.2em;
 	padding: 0.5em;
-	transition: .5s;
+	transition: 2s;
 }
 
 footer section:nth-of-type(1) img:hover {
-	scale: 1.1;
+	animation: shake 1.5s ease-in-out infinite;
 }
 
 footer section:nth-of-type(2) h3 {
@@ -819,5 +826,23 @@ footer section:nth-of-type(2) p:nth-of-type(2) {
 
 	to {
 		transform: translateY(1em)
+	}
+}
+
+@keyframes shake {
+	0% {
+		transform: rotate(0deg) scale(1.1);
+	}
+	25% {
+		transform: rotate(-15deg) scale(1.1);
+	}
+	50% {
+		transform: rotate(0deg) scale(1.1);
+	}
+	75% {
+		transform: rotate(15deg) scale(1.1);
+	}
+	100% {
+		transform: rotate(0deg) scale(1.1);
 	}
 }
