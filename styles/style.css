@@ -305,12 +305,11 @@ main section:nth-of-type(3) ul li img {
 	aspect-ratio: 1;
 	width: 15em;
 	object-fit: cover;
-	transition: .5s;
+	transition: transform 0.5s;
 }
 
 main section:nth-of-type(3) ul li img:hover {
-	scale: 1.1;
-
+	animation: shrink-grow 0.5s ease-in-out forwards;
 }
 
 main section:nth-of-type(3) h3 {
@@ -844,5 +843,17 @@ footer section:nth-of-type(2) p:nth-of-type(2) {
 	}
 	100% {
 		transform: rotate(0deg) scale(1.1);
+	}
+}
+
+@keyframes shrink-grow {
+	0% {
+		transform: scale(1); 
+	}
+	50% {
+		transform: scale(0.9); 
+	}
+	100% {
+		transform: scale(1.1); 
 	}
 }
