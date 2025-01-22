@@ -282,8 +282,8 @@ Screenshots van afbeeldingen en foute pogingen:
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
 
-
-
+## Herkansing
+ <details>
 ### Nog te doen voor de herkansing
 - maak een formulier (op teams) (Gedaan)
 - Maak een animatie voor de hamburgermenu (Gedaan)
@@ -293,9 +293,7 @@ Screenshots van afbeeldingen en foute pogingen:
 - Netjes houden (Gedaan)
 - Meer surface plane dingen (Gedaan)
 - Read me goed bijhouden
-
-## Herkansing
-
+</details>
 
 
 ## Bronnenlijst
