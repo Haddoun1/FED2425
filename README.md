@@ -304,6 +304,26 @@ die kon ik goed gebruiken. Ik heb de kleuren en font verandert zodat het wel goe
 <img src="readme-images/form.png" width="375px" alt="Afbeelding formulier">
 <img src="readme-images/form2.png" width="375px" alt="Afbeelding formulier compleet">
 
+De hamburgermenu had eerst geen animatie dus het kwam opeens tevoorschijn toen ik drukte op de menuknop. Nu heb ik een transition van 0.5s toegevoegd dat het wat soepeler maakt. Dit was een snelle fix. 
+
+Verder kreeg ik als feedback om alle spellings en hoofdletters te checken, zodat de screenreader het goed leest. Ik heb gebruik gemaakt van Uppercase en andere css styling om het beter leesbaar te maken voor de screenreader. 
+
+De screenreader las engelse woorden ook heel raar omdat het natuurlijk op het nederlands staat en de website ook. Ik heb nu bij alle engelse woorden zoals "Creamy" een span lang=en toegevoegd, zodat alles goed wordt gelezen. 
+
+De wcag formulier is belangrijk voor het bekijken van de accesibility van mijn website. Ik heb deze ingevuld en nog kleine aanpassingen gedaan waar het kon. 
+
+<img src="readme-images/form.png" width="375px" alt="Afbeelding formulier">
+<img src="readme-images/form.png" width="375px" alt="Afbeelding formulier">
+<img src="readme-images/form.png" width="375px" alt="Afbeelding formulier">
+<img src="readme-images/form.png" width="375px" alt="Afbeelding formulier">
+<img src="readme-images/form.png" width="375px" alt="Afbeelding formulier">
+
+Ik heb verder nog wat surface plane effecten toegevoegd. Ik heb 2 extra animaties toegevoegd, de shake effect, die laat de logo van de website van links naar rechts bewegen, zodat het hopelijk duidelijk is dat het een knop is. En ik heb een shrink grow animatie toegevoegd bij afbeeldingen. Dit geeft een duidelijkere effect wanneer je hoverd over een afbeeldingen. 
+
+<img src="readme-images/form.png" width="375px" alt="Afbeelding formulier">
+
+Tot slot heb ik alles nagecheckt en gekeken of het wat netter kan qua code. 
+
 
 </details>
 
