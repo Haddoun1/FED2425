@@ -184,7 +184,7 @@ main>ul li details ul li {
 	font-size: 1em;
 }
 
-main>ul li details ul li span{
+main>ul li details ul li span {
 	color: var(--background-color);
 	font-size: 1em;
 }
@@ -883,15 +883,19 @@ footer section:nth-of-type(2) p:nth-of-type(2) {
 	0% {
 		transform: rotate(0deg) scale(1.1);
 	}
+
 	25% {
 		transform: rotate(-15deg) scale(1.1);
 	}
+
 	50% {
 		transform: rotate(0deg) scale(1.1);
 	}
+
 	75% {
 		transform: rotate(15deg) scale(1.1);
 	}
+
 	100% {
 		transform: rotate(0deg) scale(1.1);
 	}
@@ -899,12 +903,14 @@ footer section:nth-of-type(2) p:nth-of-type(2) {
 
 @keyframes shrink-grow {
 	0% {
-		transform: scale(1); 
+		transform: scale(1);
 	}
+
 	50% {
-		transform: scale(0.9); 
+		transform: scale(0.9);
 	}
+
 	100% {
-		transform: scale(1.1); 
+		transform: scale(1.1);
 	}
 }
