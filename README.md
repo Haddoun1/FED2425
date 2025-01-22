@@ -295,7 +295,7 @@ Screenshots van afbeeldingen en foute pogingen:
 - Wcag formulier maken (Gedaan)
 - Netjes houden (Gedaan)
 - Meer surface plane dingen (Gedaan)
-- Read me goed bijhouden
+- Read me goed bijhouden (Gedaan)
 
 ### Proces
 Ik ben eerst begonnen met het plaatsen van een formulier in mijn website. Vasilis had al een goede formulier in Codepen gestuurd via teams dus 
@@ -322,7 +322,14 @@ Ik heb verder nog wat surface plane effecten toegevoegd. Ik heb 2 extra animatie
 
 <img src="readme-images/codeanimatie.png" width="375px" alt="Afbeelding code animaties">
 
-Tot slot heb ik alles nagecheckt en gekeken of het wat netter kan qua code. 
+Tot slot heb ik alles nagecheckt en gekeken of het wat netter kan qua code. Hiervoor heb ik de format selection gebruikt.
+
+### Wat ging minder?
+
+Omdat ik overal span moest toevoegen bij verschillende teksten, was de styling helemaal veranderd. Ik moest dus in CSS alles weer aanpassen. Dit ging goed totdat ik kwam bij de 2de pagina. Naast de span gebruikten de tweede pagina alle code van de eerste pagina dus de main. Dus bij sommige onderdelen in de code kon ik geen aanpassingen maken omdat het allemaal kwam van de main css code. Ik heb wel een fix kunnen vinden. Ik heb bij bijvoorbeeld margin "None" erachter geplaats inplaats van een eigenschap. Dit bleek het probleem op te lossen en het is wel logisch waarom het is opgelost. 
+
+<img src="readme-images/code2depagina.png" width="375px" alt="Afbeelding code tweede pagina">
+
 
 
 </details>
