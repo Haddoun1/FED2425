@@ -312,11 +312,11 @@ De screenreader las engelse woorden ook heel raar omdat het natuurlijk op het ne
 
 De wcag formulier is belangrijk voor het bekijken van de accesibility van mijn website. Ik heb deze ingevuld en nog kleine aanpassingen gedaan waar het kon. 
 
-<img src="readme-images/wcag1.png" width="375px" alt="Afbeelding wcag formulier">
-<img src="readme-images/wcag2.png" width="375px" alt="Afbeelding wcag formulier">
-<img src="readme-images/wcag3.png" width="375px" alt="Afbeelding wcag formulier">
-<img src="readme-images/wcag4.png" width="375px" alt="Afbeelding wcag formulier">
-<img src="readme-images/wcag5.png" width="375px" alt="Afbeelding wcag formulier">
+<img src="readme-images/wcag1.jpg" width="375px" alt="Afbeelding wcag formulier">
+<img src="readme-images/wcag2.jpg" width="375px" alt="Afbeelding wcag formulier">
+<img src="readme-images/wcag3.jpg" width="375px" alt="Afbeelding wcag formulier">
+<img src="readme-images/wcag4.jpg" width="375px" alt="Afbeelding wcag formulier">
+<img src="readme-images/wcag5.jpg" width="375px" alt="Afbeelding wcag formulier">
 
 Ik heb verder nog wat surface plane effecten toegevoegd. Ik heb 2 extra animaties toegevoegd, de shake effect, die laat de logo van de website van links naar rechts bewegen, zodat het hopelijk duidelijk is dat het een knop is. En ik heb een shrink grow animatie toegevoegd bij afbeeldingen. Dit geeft een duidelijkere effect wanneer je hoverd over een afbeeldingen. 
 
