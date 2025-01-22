@@ -184,6 +184,11 @@ main>ul li details ul li {
 	font-size: 1em;
 }
 
+main>ul li details ul li span{
+	color: var(--background-color);
+	font-size: 1em;
+}
+
 main>ul li details ul {
 	flex-direction: column;
 	display: flex;
@@ -278,7 +283,6 @@ main section:nth-of-type(2) img {
 main section:nth-of-type(2) h3 {
 	color: var(--color-text);
 	padding: 10%;
-	font-size: 2.9em;
 	text-align: left;
 	font-family: "zuumme";
 	font-weight: bold;
@@ -286,6 +290,13 @@ main section:nth-of-type(2) h3 {
 	font-size: 3em;
 	line-height: 1em;
 
+}
+
+main section:nth-of-type(2) span {
+	color: var(--color-text);
+	font-family: "zuumme";
+	font-weight: bold;
+	text-transform: uppercase;
 }
 
 main section:nth-of-type(3) ul {
@@ -323,6 +334,16 @@ main section:nth-of-type(3) h3 {
 }
 
 main section:nth-of-type(3) h4 {
+	font-family: "Genta";
+	font-weight: 50;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 1.5rem;
+	color: var(--color-text2);
+	margin: 1em
+}
+
+main section:nth-of-type(3) span {
 	font-family: "Genta";
 	font-weight: 50;
 	text-align: center;
@@ -386,6 +407,15 @@ main section:nth-of-type(5) h3 {
 	color: var(--color-text);
 	line-height: 1em;
 	margin-top: -0.5em;
+}
+
+main section:nth-of-type(5) span {
+	grid-area: 1/1;
+	z-index: 1;
+	font-family: "zuumme";
+	font-weight: bold;
+	text-transform: uppercase;
+	color: var(--color-text);
 }
 
 main section:nth-of-type(5) div {
@@ -715,6 +745,13 @@ footer section:nth-of-type(2) p:nth-of-type(2) {
 	margin-top: -5%;
 }
 
+.tweedepagina section:nth-of-type(3) span {
+	color: var(--color-text2);
+	text-transform: none;
+	margin: 0em;
+	font-size: 1em;
+}
+
 .tweedepagina section:nth-of-type(4) img {
 	height: 100%;
 	width: 100%;
@@ -744,6 +781,13 @@ footer section:nth-of-type(2) p:nth-of-type(2) {
 	font-family: "Genta";
 	font-size: 1.4em;
 	margin-top: -5%;
+}
+
+.tweedepagina section:nth-of-type(4) span {
+	color: var(--color-text2);
+	text-transform: none;
+	margin: 0em;
+	font-size: 1em;
 }
 
 .tweedepagina section:nth-of-type(5) img {
@@ -809,6 +853,13 @@ footer section:nth-of-type(2) p:nth-of-type(2) {
 	font-family: "Genta";
 	font-size: 1.4em;
 	margin-top: -5%;
+}
+
+.tweedepagina section:nth-of-type(6) span {
+	color: var(--color-text2);
+	text-transform: none;
+	margin: 0em;
+	font-size: 1em;
 }
 
 
