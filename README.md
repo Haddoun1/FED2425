@@ -287,14 +287,14 @@ Screenshots van afbeeldingen en foute pogingen:
 ### Nog te doen voor de herkansing
 - maak een formulier (op teams) (Gedaan)
 - Maak een animatie voor de hamburgermenu (Gedaan)
-- Alles checken voor hoofdletters en anders stylen
-- Span in lang=en zetten bij engels woorden misschien
-- Wcag formulier maken 
+- Alles checken voor hoofdletters en anders stylen (Gedaan)
+- Span in lang=en zetten bij engels woorden (Gedaan)
+- Wcag formulier maken (Gedaan)
 - Netjes houden (Gedaan)
-- Meer surface plane dingen
-- Light mode dark mode toggle 
-- Kerst hoedjes 
+- Meer surface plane dingen (Gedaan)
 - Read me goed bijhouden
+
+## Herkansing
 
 
 
