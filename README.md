@@ -284,6 +284,9 @@ Screenshots van afbeeldingen en foute pogingen:
 
 ## Herkansing
 
+<details>
+<summary>Uitwerken voor de herkansing
+
 ### Nog te doen voor de herkansing
 - maak een formulier (op teams) (Gedaan)
 - Maak een animatie voor de hamburgermenu (Gedaan)
@@ -294,8 +297,6 @@ Screenshots van afbeeldingen en foute pogingen:
 - Meer surface plane dingen (Gedaan)
 - Read me goed bijhouden
 
-<details>
-<summary>Uitwerken voor de herkansing
 </details>
 
 
