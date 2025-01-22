@@ -330,7 +330,7 @@ Omdat ik overal span moest toevoegen bij verschillende teksten, was de styling h
 
 <img src="readme-images/code2depagina.png" width="375px" alt="Afbeelding code tweede pagina">
 
-
+Verder heb ik moeite met de screenreader. De screenreader leest nogsteeds geen engelse woorden net als hoe ik het wil. Ik heb even gescrolt door het web en ben erachter gekomen dat het ligt aan de instellingen van de Windows Narrator. De narrator heeft verschillende talen en ik gebruik natuurlijk Nederlands omdat het een Nederlandse website is. Alleen kan de narrator wel zien wanneer iets geen Nederlands is, maar het leest het uiteindelijk helemaal niet. Ik kreeg als tip om de Narrator op Microsoft Mark te zetten die ook Nederlands support qua taal. Alleen sprak hij het heel raar aan dat je niet eens hoort wat hij zegt. Dus ik heb dit jammer genoeg niet kunnen oplossen. 
 
 </details>
 
