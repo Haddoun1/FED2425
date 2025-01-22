@@ -16,6 +16,11 @@
 	font-family: "Genta";
 }
 
+@media (prefers-reduced-motion) {
+	/* styles to apply if a user's device settings are set to reduced motion */
+  }
+  
+
 
 /*********************/
 /* CUSTOM PROPERTIES */
