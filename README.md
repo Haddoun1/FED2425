@@ -297,6 +297,14 @@ Screenshots van afbeeldingen en foute pogingen:
 - Meer surface plane dingen (Gedaan)
 - Read me goed bijhouden
 
+### Proces
+Ik ben eerst begonnen met het plaatsen van een formulier in mijn website. Vasilis had al een goede formulier in Codepen gestuurd via teams dus 
+die kon ik goed gebruiken. Ik heb de kleuren en font verandert zodat het wel goed past bij de website. 
+
+<img src="readme-images/form.png" width="375px" alt="Afbeelding formulier">
+<img src="readme-images/form2.png" width="375px" alt="Afbeelding formulier compleet">
+
+
 </details>
 
 
@@ -306,7 +314,7 @@ Screenshots van afbeeldingen en foute pogingen:
   <summary>continu bijhouden terwijl je werkt</summary>
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg). 
-  Nb. ChatGpT en andere AI horen er ook bij.
+  Nb. ChatGPT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
   1. Alle afbeeldingen en content zijn van de Snickers Website: https://www.snickers.nl/ en 
