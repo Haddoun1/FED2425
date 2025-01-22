@@ -285,7 +285,7 @@ Screenshots van afbeeldingen en foute pogingen:
 ## Herkansing
 
 <details>
-<summary>Uitwerken voor de herkansing
+<summary>Uitwerken voor de herkansing</summary>
 
 ### Nog te doen voor de herkansing
 - maak een formulier (op teams) (Gedaan)
