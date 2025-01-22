@@ -38,14 +38,14 @@
 /* https://fontmeme.com/fonts/genta-font/#google_vignette */
 @font-face {
 	font-family: "genta";
-	src: url(/fonts/Genta.ttf);
+	src: url("../fonts/Genta.ttf");
 }
 
 /* https://font.download/font/zuume */
 @font-face {
 	font-family: "zuumme";
-	src: url(/fonts/Zuume\ Medium.ttf);
-	src: url(/fonts/Zuume\ Bold.ttf);
+	src: url("../fonts/Zuume\ Medium.ttf");
+	src: url("../fonts/Zuume\ Bold.ttf");
 }
 
 
